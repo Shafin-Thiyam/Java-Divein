@@ -7,8 +7,7 @@ package Chap01;
 public class Welcome {
 
 	public static void main(String[] args) {
-		System.out.println("Wellcome Java!");
-
+		System.out.println("Welcome Java!");
 	}
 
 }
